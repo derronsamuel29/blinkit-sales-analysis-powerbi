@@ -90,7 +90,7 @@ This project helped me strengthen my skills in:
 
 * `Blinkit dashboard.pbix` — Power BI dashboard
 * `BlinkIT Grocery Data Excel.xlsx` — Excel data
-* `Screenshot 2026-08-18 190103.png` — Dashboard preview
+* `dashboard-overview.png — Dashboard preview
 
 ---
 
