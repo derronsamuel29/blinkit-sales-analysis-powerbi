@@ -70,8 +70,7 @@ The objective was to understand sales performance across different outlet types,
 
 ## 📈 Dashboard Preview
 
-![Blinkit Dashboard](Screenshot%202026-08-18%20190103.png)
-
+![Blinkit Dashboard](dashboard-overview.png)
 ---
 
 ## 💡 Key Learnings
